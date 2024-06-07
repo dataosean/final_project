@@ -5,4 +5,4 @@
 3. 순서도: 이미지 참고
 4. 팀원: 4인
 5. 기간: 31일
-6. 링크: 
+6. 링크: https://app-3kgyaay7zrakjcdxmnt8g4.streamlit.app
