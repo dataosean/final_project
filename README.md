@@ -6,3 +6,4 @@
 4. 팀원: 4인
 5. 기간: 31일
 6. 링크: https://app-3kgyaay7zrakjcdxmnt8g4.streamlit.app
+7. 비고: 제작 순서대로 폴더 번호 부여
