@@ -8,7 +8,9 @@
 ## 안내
 - 구성 팀원: 4인
 - 진행 기간: 31일
-- 순서도: 포트폴리오 참고
+
+## 순서도
+![이미지]()
 
 ## 웹 배포
 - 링크: https://app-3kgyaay7zrakjcdxmnt8g4.streamlit.app
