@@ -9,7 +9,7 @@
 - 구성 팀원: 4인
 - 진행 기간: 31일
 
-## 순서도
+## 분석 프로세스
 ![이미지](https://github.com/dataosean/Final_Project/blob/b53c1a55d088818153479f5aa9753d835de613a1/6.%20Streamlit%20%EC%9B%B9%20%EB%B0%B0%ED%8F%AC/Flowchart.png)
 
 ## 웹 배포
