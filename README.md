@@ -10,7 +10,7 @@
 - 진행 기간: 31일
 
 ## 순서도
-![이미지](https://github.com/dataosean/Final_Project/blob/e62e67bd4c9af9e132b5428a0820c36fd9da054b/6.%20Streamlit%20%EC%9B%B9%20%EB%B0%B0%ED%8F%AC/Flowchart.png)
+![이미지](https://github.com/dataosean/Final_Project/blob/b53c1a55d088818153479f5aa9753d835de613a1/6.%20Streamlit%20%EC%9B%B9%20%EB%B0%B0%ED%8F%AC/Flowchart.png)
 
 ## 웹 배포
 - 링크: https://app-3kgyaay7zrakjcdxmnt8g4.streamlit.app
